@@ -133,7 +133,11 @@ Wallet Support
 
 
 Contacts:
+
 Telegram - https://t.me/komokunique
+
 qTox: 0DF8A8515581B7BE24D2FC1F107AD38E20E6F26F6DF83E6C30AB49FF4707BD5720A0F4A38AB5
+
 Session ID: 05cdb27d043d43f28ff85b32c1f3502bb8e1a976265966dd44803c28ad47955200
+
 PM in messangers for price
